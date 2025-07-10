@@ -70,8 +70,7 @@ Average stay duration is 2.4 days, and customer ratings range between 3.4 to 3.8
 </details>
 📊 Power BI Dashboard Preview
 
-
-You can download and explore the .pbix file locally via Power BI Desktop to interact with the visuals and filters.
+https://github.com/Adarsh28-DA/Revenue-Insights-in-Hospitality-Domain/blob/main/Revenue%20insight%20in%20hospitality%20domain.png
 
 ✅ Conclusion
 This Power BI dashboard provides a centralized, visual, and actionable view of key metrics that impact AtliQ Hotels’ revenue. The intuitive layout, interactive filters, and strong data foundation allow for quick business decisions backed by data.
